@@ -35,6 +35,6 @@ int res[n];
   for (int i = 0; i < n; i++) {
     cout <<arr[i]<<"---->  " <<res[i] <<endl;
   }
- 
+ //work done!!!
   return 0;
 }
